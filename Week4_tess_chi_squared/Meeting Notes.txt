@@ -1,0 +1,11 @@
+aperture_mask describes which of the pixels out of the full image should be used to measure the light (e.g. the pixels around the star) 
+‘threshold’ for aperture_mask basically sets the mask to only use pixels where the light is more than 3-sigma above the median value across the image
+
+Q: Is the dip always indicating a planet
+A1: It can be a star spot too (Starspots can be a problem, but the longer you observe it and keep seeing it dip, the more likely it’s an actual planet) (Because starspots evolve and fade over time) 
+A2: It might! if the dip repeats at regular intervals, that’s a good indication. Although, it could be a second star blocking some of the light, but in general a planet and a star produce different ‘shaped’ dips - a planet is more flat-bottomed and a star is more ‘V’ shaped 
+
+
+Limb darkening is an effect where stars appear fainter around their edge because you’re looking through the transparent fluffy part above the stellar surface. So it’ll affect how the shape of the transit appears, because a planet is blocking proportionally less of the star’s light near the edge than in the center. 
+/
+The center of a star will appear brighter than the edges — this is because light from the edges of the star has to pass through a lot more of the star’s atmosphere (kind of like a reverse-sunset), so less light gets through and the edges appear to be fainter 
