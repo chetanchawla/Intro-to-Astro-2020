@@ -1,0 +1,10 @@
+Zoom Chat Notes
+# Confirmed is the term used when the mass is measured. We also use the term ‘verified’ for the instance when a planet is no longer a candidate, but we do not measure the mass. 
+confirmed and verified have equal stature, but different meaning. 
+
+# With Kepler we are sensitive to small planets and large planets, so when we find more small ones, that represents a real difference in nature in how many small planets form (lots!) and how many large planets form (fewer!) 
+
+Q. Also would the habitable zone be constantly changing in a binary star system? 
+A. Hmmm, that’s a good question. The habitable zone is mostly defined by the flux that is at a certain point, and whether the planet can sustain liquid water 
+https://en.wikipedia.org/wiki/Habitability_of_binary_star_systems 
+A2. Around any one component of the binary, the HZ would be changing, but if a planet goes around both stars in a binary, a circumbinary planet, then the HZ is constant 
