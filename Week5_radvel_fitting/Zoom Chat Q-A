@@ -1,0 +1,2 @@
+Q: What exactly went into that initial period being selected as our first guess? It didn't seem to be the highest peak on the periodogram 
+A: Here we used the command “model.best_period” to evaluate this. You can find information on what this command does under the hood on the documentation website: https://www.astroml.org/gatspy/periodic/lomb_scargle.html 
