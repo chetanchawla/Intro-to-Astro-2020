@@ -1,3 +1,7 @@
+# This repositry contains tutorials (and my submissions) to [Intro to Astro 2020](https://github.com/howardisaacson/Intro-to-Astro-2020) Course by Howard Isaacson (UC Berkeley)
+
+---------
+
 # Intro-to-Astro-2020
 An introduction to astronomy research for aspiring students/researchers/enthusiasts
 
