@@ -1,0 +1,12 @@
+Simulating protoplanetary disk formation
+classification of objects using ML - Supernovae, Galaxies, Stars
+Detection of Gravitational Waves using Machine Learning
+Pulsars
+
+
+- Look up the most popular and most cited papers. You can skip the crazy maths
+- Focus more on what has been done already, What is the state of research and make a thing as to what can you do in this field
+- Read papers to get an idea on the field
+- Lookup one paper from each field- Glimpse through the paper and see if there is something that particularly interests me
+
+Aldo's research: Xray simulations of Supernova remanents
