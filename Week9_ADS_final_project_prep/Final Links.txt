@@ -1,0 +1,87 @@
+	PDFs
+**6*		1. Detecting Exoplanet Transits through Machine Learning Techniques with Convolutional Neural Networks (2019)
+Bypass 1*		2. Review: Extrasolar Planetary Transits
+		3. Identifying Exoplanets Using Deep Learning and Predicting Their Likelihood of Habitability (2020)
+		4. Transit Photometry as an Exoplanet Discovery Method (2018)
+
+
+**2*
+	Astronet: Identifying Exoplanets with Deep Learning: A Five-planet Resonant Chain aroundKepler-80 and an Eighth Planet around Kepler-90 (2018)
+		https://iopscience.iop.org/article/10.3847/1538-3881/aa9e09/pdf
+		Code: https://github.com/google-research/exoplanet-ml/tree/master/exoplanet-ml/astronet
+		Complete AstroML Repository: https://github.com/google-research/exoplanet-ml
+
+
+Bypass 3*
+	Original Charbonneau Paper: Detection of Planetary Transits Across a Sun-like Star (1999)
+		https://arxiv.org/pdf/astro-ph/9911436.pdf
+	
+
+	Ansdell Papers: 
+**4*		Scientific Domain Knowledge Improves Exoplanet Transit Classification with Deep Learning:
+			https://arxiv.org/pdf/1810.13434.pdf
+5*		Rapid Classification of TESS Planet Candidates with Convolutional Neural Networks:
+			https://arxiv.org/pdf/1902.08544.pdf
+
+0*	Comparing convolutional neural networks and recurrent neural networks for exoplanet detection (Thesis):
+		http://arno.uvt.nl/show.cgi?fid=148423 
+		Code: https://github.com/OneAndOnlySeabass/models
+
+	Searching for Exoplanets using Artificial Intelligence: (2017)
+		https://arxiv.org/pdf/1706.04319.pdf
+
+	IDENTIFYING EXOPLANETS WITH DEEP LEARNING II: TWO NEW SUPER-EARTHS UNCOVERED BY ANEURAL NETWORK IN K2 DATA:
+		https://arxiv.org/pdf/1903.10507.pdf
+
+	Transit clairvoyance: enhancingTESSfollow-up usingartificial neural networks:
+		https://watermark.silverchair.com/stw2974.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqQwggKgBgkqhkiG9w0BBwagggKRMIICjQIBADCCAoYGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM8N-_1lv3LSrHJIXUAgEQgIICV9BIKdHhMsmk6g61ZstoEFENzBoHXM76ySm8UGpLzEmpbShl1YG3YtdHs_sUb3GywXlN81gkLwE164vHB5u5aWwXqL-rUObB1TCwJ0X63XXjmypX7zBJxAdGNCDiZaJbW2Uw5hHyc-nBKQgQ_9y68ZF5hCACkKSa61D3JkDYieG6RD5L0b7l7h64q8R2Se27AL6_e1q4Z_uNYHXJNz4PRVikTPjBSCBfG7WiE1mEKVzTV5WzlkUDU509OJudbCZOuyLJSIAmtpmSHeGfSZF4Jk1s8fqlEITJgtoaIOm2T-7TcMrHAQTx1wbXrgQSU0bpjOcA4pIWPgJmZNmaPCOU5ZhtIcWUT6U5PeotZJ62y0TNG6qj_t9k6EE_5oLjFYzOIH6msBplTvfZp5hxOPEtLkQ9pw0hN-cR4ysVvY_44GsMdAoTkIJoFfAYT1avKgcYTMfqVAbICSK5m7AXwrvyTbWFf7xAkc7xm9o4Opyyg_lH_F3wnKnlM95ZIdfNYaorivl6WWwlTdrMBbFkNbGvzSdmdlIhe7lZyf9kT4qn2y86_WcDjo5tIdKCBaNIS4wI4D7jK3fTbIRpAlLIPELRWQbjFjSPk9qhXEeTngT3vdP8rO8quPnyi1-YTRzeAX96dHv3KOo0oLA6Lsa1OSw1NpmlRJ-Y2OS9PD59PK6MUx9z1vlcRt_QQrASQRdljjbWeEpZfygX5uJmKzudORCnui7F-1pHKMZsl2n7g3rtHTw8WUyPwqCA-aJT96R5d9zmYwpEHP93SRSyHDiZ-unXNgaUaBPwQumn
+
+	Multi Class Detection for WASP data using ML and data (2018): 
+		https://arxiv.org/pdf/1811.07754.pdf
+
+	Maths: ANALYTIC LIGHTCURVES FOR PLANETARY TRANSIT SEARCHES (analytic formulae for the eclipse of a star described by quadratic or nonlinear limb darkening) (2002):
+		https://arxiv.org/pdf/astro-ph/0210099.pdf
+
+	**For parameters
+			https://arxiv.org/ftp/arxiv/papers/1710/1710.06804.pdf
+
+
+
+
+
+
+Misc Resources on Transits:
+	Exoplanet Transit Database. Reduction and processing of the photometric data of exoplanet transits:
+		https://sci-hub.tw/https://doi.org/10.1016/j.newast.2009.09.001
+
+
+
+
+
+
+
+
+
+Different Topics:
+Dipper Stars
+	Young "Dipper" Stars in Upper Sco and ρ Oph Observed by K2:
+		https://arxiv.org/abs/1510.08853
+	Discovery of New Dipper Stars with K2: A Window into the Inner Disk Region of T Tauri Stars:
+		https://arxiv.org/abs/1802.00409
+Exoplanetary Atmospheres Retrieval
+	ExoGAN: Retrieving Exoplanetary Atmospheres Using Deep Convolutional GenerativeAdversarial Networks:
+		https://iopscience.iop.org/article/10.3847/1538-3881/aae77c/pdf
+	Superabundance of Exoplanet Sub-Neptunes Explained by Fugacity Crisis: (Trappage of Gases like Hydrogen due to coverage of exo-planet surface by Magma)
+		https://arxiv.org/pdf/1912.02701.pdf
+Exomoons: 
+	https://www.aanda.org/articles/aa/pdf/forth/aa37059-19.pdf
+
+
+
+
+Monitoring photometric stellar variabilty for the radial velocity- Traditionally through Gaussian Processes and use the kernel as a Physical method (Replacing a Guassian Process with a Light Curve	for)
+
+Using a periodogram of the light curve
+
+RNN architecture is physically motivated (time series)
+Observations are time based so we can use Periodic information 

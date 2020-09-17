@@ -1,0 +1,15 @@
+As per Figure 1, we detect more planets at smaller masses than bigger mass planets (10-75 M_jup) through Radial Velocity (Grey dots). Why so? Shouldn't the larger planets create a larger wobble to the star which should be easier to detect? 
+
+A. Chetan, you would be right, IF all planets are equally common. It turns out that the lack of these more massive planets is what we term the ‘Brown Dwarf Desert’ . These are inherently very uncommon. 
+
+Got it, thanks!
+
+Also, if I am understanding this correctly, a higher contrast between the host star and the planet is desirable, but why do we prefer the younger planets (brighter) over the older ones? Is it only because of the seperation is greater in younger planets as compared to older planets? 
+
+A. Not quite. Young stars have young planets, and young planets are warmer than old ones because they only get cooler over time, never warmer. That means they are the brightest(aka warmest) when they are young, and are therefore easier to detect. 
+
+
+Q. Is it also possible that if the relative contrast between the star and the planet gets too low, it might be difficult to differentiate it as a planet rather than a binary star? 
+
+A. since stars are so much brighter than planets, if the contrast gets too low its more likely that the planet is just not able to be imaged at all/is drowned out by the star 
+however it could be easily confused as a brown dwarf companion rather than a planet companion 
